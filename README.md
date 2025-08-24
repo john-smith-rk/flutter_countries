@@ -39,6 +39,6 @@ In `CountryData`, the following fields will include ..
 
 ## DEMO
 
-| Android Demo | iOS Demo | Web Demo |
-|--------------|----------|----------|
-| <img src="assets/android.png" width="200" height="400" alt="Android Video"/> | <img src="assets/ios.png" width="200" height="400" alt="iOS Video"/> | <img src="assets/web.png" width="200" height="400" alt="iOS Video"/> |
+| Android Demo | iOS Demo                                                             | Web Demo                                                             |
+|--------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| <img src="assets/android.png" width="200" height="400" alt="Android Video"/> | <img src="assets/ios.png" width="200" height="380" alt="iOS Video"/> | <img src="assets/web.png" width="550" height="400" alt="iOS Video"/> |
